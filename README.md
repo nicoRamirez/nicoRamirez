@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola 👋, mi nombre es Nicolás Ramirez 
+#### soy desarrollador junior en .NET y estudiante en la carrera Tec. Univ. en Informática. 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoRamirez&theme=ocean_dark&show_icons=true)
 
-<!--
-**nicoRamirez/nicoRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Habilidades: **html**, **css**, **javascript**, **java**, **c#**, **kotlin**, **spring boot**, **.NET**, **blazor** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en Huenei IT services 
+- 🌱 Estoy aprendiendo angular, node.js, react 
+- 📫 Cómo contactarme: nicolasmatiasramirez@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicoRamirez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nicol%C3%A1s-ramirez//)  
+
